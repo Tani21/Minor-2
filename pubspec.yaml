@@ -77,11 +77,24 @@ flutter:
     - assets/Fitegrate/profile.jpeg
     - assets/Gifs/1.gif
     - assets/Logos/confused_man.png
-    - assets/assessment/partial_curl_up.mp4
-    - assets/assessment/push_up_test.mp4
-    - assets/assessment/partial_curl_up.mp4
-    - assets/assessment/single_leg_balance.jpg
-    - assets/assessment/push_up_test_women.mp4
+    - assets/Gifs/ankle_rotation.gif
+    - assets/Gifs/donkey_kicks.gif
+    - assets/Gifs/fullarmrotation.gif
+    - assets/Gifs/hip_rotation.gif
+    - assets/Gifs/lateral_leg_raise.gif
+    - assets/Gifs/shoulder_rotation.gif
+    - assets/Gifs/standing_crossover_toe_touch.gif
+    - assets/Gifs/walkingkneehug.gif
+    - assets/assessment/running-spot-jog.gif
+    - assets/assessment/final/menpushup.gif
+    - assets/assessment/final/partialcurlup.gif
+    - assets/assessment/final/single_leg_balance.jpg
+    - assets/assessment/final/womenpushup.gif
+    - assets/assessment/final/squat.gif
+    - assets/assessment/final/sitandreach.gif
+    
+
+    
 
    
 

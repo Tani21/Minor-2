@@ -254,30 +254,58 @@ class _CrossToeTouchState extends State<CrossToeTouch> {
             width: size.width * 0.9,
             child: Column(
                 children: [
-                  Image.asset('assets/Gifs/1.gif',  height: size.height * 0.35,
+                  Image.asset('assets/Gifs/standing_crossover_toe_touch.gif',  height: size.height * 0.35,
             width: size.width * 0.9,)
                 ],
 
             ),
-              // future: _initializeVideoPlayerFuture,
-              // builder: (context, snapshot) {
-              //   if (snapshot.connectionState == ConnectionState.done) {
-              //     // If the VideoPlayerController has finished initialization, use
-              //     // the data it provides to limit the aspect ratio of the video.
-              //     return AspectRatio(
-              //       aspectRatio: _video_controller.value.aspectRatio,
-              //       // Use the VideoPlayer widget to display the video.
-              //       child: VideoPlayer(_video_controller),
-              //     );
-              //   } else {
-              //     // If the VideoPlayerController is still initializing, show a
-              //     // loading spinner.
-              //     return const Center(
-              //       child: CircularProgressIndicator(),
-              //     );
-              //   }
-              // },
+            //  child: FutureBuilder(
+            //     future: _initializeVideoPlayerFuture,
+            //     builder: (context, snapshot) {
+            //       if (snapshot.connectionState == ConnectionState.done) {
+            //         // If the VideoPlayerController has finished initialization, use
+            //         // the data it provides to limit the aspect ratio of the video.
+            //         return AspectRatio(
+            //           aspectRatio: _video_controller.value.aspectRatio,
+            //           // Use the VideoPlayer widget to display the video.
+            //           child: VideoPlayer(_video_controller),
+            //         );
+            //       } else {
+            //         // If the VideoPlayerController is still initializing, show a
+            //         // loading spinner.
+            //         return const Center(
+            //           child: CircularProgressIndicator(),
+            //         );
+            //       }
+            //     },
+            //   ),
             ),
+            // child: Column(
+            //     children: [
+            //       Image.asset('assets/assessment/standing_crossover_toe_touch.mp4',  height: size.height * 0.35,
+            // width: size.width * 0.9,)
+            //     ],
+
+            // ),
+            //   future: _initializeVideoPlayerFuture,
+            //   builder: (context, snapshot) {
+            //     if (snapshot.connectionState == ConnectionState.done) {
+            //       // If the VideoPlayerController has finished initialization, use
+            //       // the data it provides to limit the aspect ratio of the video.
+            //       return AspectRatio(
+            //         aspectRatio: _video_controller.value.aspectRatio,
+            //         // Use the VideoPlayer widget to display the video.
+            //         child: VideoPlayer(_video_controller),
+            //       );
+            //     } else {
+            //       // If the VideoPlayerController is still initializing, show a
+            //       // loading spinner.
+            //       return const Center(
+            //         child: CircularProgressIndicator(),
+            //       );
+            //     }
+            //   },
+            // ),
           
           // SizedBox(
           //   height: 2,
