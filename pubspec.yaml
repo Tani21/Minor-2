@@ -77,6 +77,12 @@ flutter:
     - assets/Fitegrate/profile.jpeg
     - assets/Gifs/1.gif
     - assets/Logos/confused_man.png
+    - assets/assessment/partial_curl_up.mp4
+    - assets/assessment/push_up_test.mp4
+    - assets/assessment/partial_curl_up.mp4
+    - assets/assessment/single_leg_balance.jpg
+    - assets/assessment/push_up_test_women.mp4
+
    
 
   # An image asset can refer to one or more resolution-specific "variants", see
